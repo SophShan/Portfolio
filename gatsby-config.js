@@ -2,10 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Benjamin Kostiuk',
-    description:
-      'Benjamin Kostiuk is a Software Developer at Royal Bank of Canada writing code for the beautiful marriage of money and the internet.',
-    siteUrl: 'https://benkostiuk.com', // No trailing slash allowed!
+    title: 'Sophia Shantharupan',
+    description: 'Sophia Shantharupan is a Research Assistant at McMaster University.',
+    siteUrl: 'https://sophshan.github.io', // No trailing slash allowed!
     image: '/og.PNG', // Path to your image you placed in the 'static' folder
   },
   plugins: [
@@ -19,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BenjaminKostiuk',
-        short_name: 'BenKostiuk',
+        name: 'SophiaShantharupan',
+        short_name: 'SophShan',
         start_url: '/',
         background_color: config.colors.bg,
         theme_color: config.colors.primary,

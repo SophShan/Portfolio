@@ -132,48 +132,16 @@ const About = () => {
           <div>
             <p>Hi there!</p>
             <p>
-              I'm Benjamin Kostiuk, a software developer who enjoys writing code for money on the
-              internet. My background is in building full stack applications, data pipelines,
-              real-time highly available infrastructure, and data intensive applications.
+              I'm Sophia Shantharupan, an aspiring software developer who enjoys building new and
+              fun projects. My background is in developing full stack applications, game mechanics,
+              and data analytics.
             </p>
             <p>
-              I currently work @ RBC supporting their Next Best Action marketing team. If you've
-              received an offer for an RBC product by email, phone, or push notification, I probably
-              had a hand in building the systems and data pipelines that decided which offer was
-              right for you, when to contact you, and how best to reach you! Some of my personal
-              pursuits include mobile development, DevOps and Web3 dev. I'm always experimenting and
-              trying to build cool projects.
-            </p>
-
-            <p>
-              I've had the opportunity to intern with{' '}
-              <a href="https://www.rbcroyalbank.com/personal.html" target="_blank" rel="noreferrer">
-                banks
-              </a>
-              , a
-              <a href="https://www.affirm.com/" target="_blank" rel="noreferrer">
-                fintech BNPL giant
-              </a>
-              , and an intelligent search{' '}
-              <a href="https://www.coveo.com/en" target="_blank" rel="noreferrer">
-                SaaS company
-              </a>
-              . Some of my favorite projects include{' '}
-              <a href="https://benkostiuk.com/particle-divide/" target="_blank" rel="noreferrer">
-                a little game playing with particles
-              </a>
-              , my{' '}
-              <a
-                href="https://github.com/benjaminkostiuk/benjaminkostiuk"
-                target="_blank"
-                rel="noreferrer">
-                automatically updating github README
-              </a>{' '}
-              and a{' '}
-              <a href="https://github.com/puffproject" target="_blank" rel="noreferrer">
-                platform for students
-              </a>{' '}
-              to collaborate when writing unit tests for projects.
+              I currently work at McMaster supporting their Prospect Research and Analytics team.
+              Through engineering SQL databases and Power BI dashboards, I help automate tasks to
+              help my team preform efficiently and to the best of thier ability. Some of my personal
+              pursuits include game development, project management and embedded systems. I'm always
+              learning by experimenting and building new projects.
             </p>
 
             <p>Here are a few of the technologies I use to build projects:</p>
@@ -194,13 +162,13 @@ const About = () => {
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/MySQL.svg`}
+                    src={`../../images/skills/SQL.svg`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
-                    alt="JavaScript"
+                    alt="SQL"
                   />
                 </div>
-                <p className="skill-name">MySQL</p>
+                <p className="skill-name">SQL</p>
               </li>
               <li>
                 <div className="skill-img">
@@ -227,24 +195,24 @@ const About = () => {
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/Azure.svg`}
+                    src={`../../images/skills/C.svg`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
                     alt="JavaScript"
                   />
                 </div>
-                <p className="skill-name">Azure</p>
+                <p className="skill-name">C</p>
               </li>
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/Docker.svg`}
+                    src={`../../images/skills/CSharp.svg`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
                     alt="JavaScript"
                   />
                 </div>
-                <p className="skill-name">Docker</p>
+                <p className="skill-name">C#</p>
               </li>
             </ul>
           </div>
@@ -254,7 +222,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

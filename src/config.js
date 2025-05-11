@@ -1,18 +1,18 @@
 module.exports = {
-  email: 'benkostiuk1@gmail.com',
+  email: 'sophiashanthan@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/benjaminkostiuk',
+      url: 'https://github.com/SophShan',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/benjaminkostiuk',
+      url: 'https://www.linkedin.com/in/sophiashantharupan/',
     },
     {
       name: 'Gmail',
-      url: 'mailto:benkostiuk1@gmail.com',
+      url: 'mailto:sophiashanthan@gmail.com',
     },
     // {
     //   name: 'Instagram',
@@ -22,22 +22,22 @@ module.exports = {
     //   name: 'Twitter',
     //   url: 'TWITTER_URL',
     // },
-    {
-      name: 'Medium',
-      url: 'https://medium.com/@benkostiuk',
-    },
-    {
-      name: 'Devpost',
-      url: 'https://devpost.com/benjaminkostiuk',
-    },
+    // {
+    //  name: 'Medium',
+    //  url: 'https://medium.com/@benkostiuk',
+    // },
+    // {
+    //  name: 'Devpost',
+    //  url: 'https://devpost.com/benjaminkostiuk',
+    //},
     // {
     //   name: 'Codepen',
     //   url: 'CODEPEN_URL',
     // },
-    {
-      name: 'Itch.io',
-      url: 'https://benkostiuk.itch.io',
-    },
+    // {
+    //  name: 'Itch.io',
+    //  url: 'https://benkostiuk.itch.io',
+    // },
   ],
 
   navLinks: [
@@ -57,10 +57,10 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
-    {
-      name: 'Resources',
-      url: '/resources',
-    },
+    // {
+    //  name: 'Resources',
+    //  url: '/resources',
+    // },
   ],
 
   colors: {

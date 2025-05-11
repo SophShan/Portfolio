@@ -110,7 +110,7 @@ const Hero = () => {
   }, []);
 
   const greeting = <h1>Hey, I'm</h1>;
-  const name = <h2 className="big-heading name-heading">Ben Kostiuk</h2>;
+  const name = <h2 className="big-heading name-heading">Sophia Shantharupan</h2>;
   const brief = <h3 className="big-heading">Software Developer</h3>;
   const socials = (
     <StyledSocialLinks>
@@ -129,23 +129,11 @@ const Hero = () => {
   const description = (
     <>
       <p>
-        I’m a senior full stack developer at{' '}
-        <a href="https://www.rbcroyalbank.com/personal.html/" target="_blank" rel="noreferrer">
-          RBC
-        </a>{' '}
-        writing code for the beautiful marriage of money and the internet. I develop full-stack
-        data-intensive applications and data pipelines running on real-time highly available
-        infrastructure to support RBC's marketing arm.
+        I’m a research assistant at{' '}
+        {/* <a href="https://www.rbcroyalbank.com/personal.html/" target="_blank" rel="noreferrer"> */}
+        McMaster University, working to uncover new insights to drive future-focused solutions and
+        automate our efforts to improve efficiency within the company.
         <br />
-        I've previously interned at{' '}
-        <a href="https://www.affirm.com/" target="_blank" rel="noreferrer">
-          Affirm
-        </a>{' '}
-        supporting the investor experience team responsible for investor reporting, and at{' '}
-        <a href="https://www.coveo.com/en" target="_blank" rel="noreferrer">
-          Coveo
-        </a>{' '}
-        supporting the plugins team, automating testing for their Slack plugin.
       </p>
     </>
   );

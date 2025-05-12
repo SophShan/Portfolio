@@ -153,7 +153,7 @@ const About = () => {
                   <StaticImage
                     src={`../../images/skills/Javascript.png`}
                     quality={95}
-                    formats={['AUTO', 'WEBP', 'AVIF']}
+                    formats={['AUTO', 'WEBP']}
                     alt="JavaScript"
                   />
                 </div>
@@ -164,7 +164,7 @@ const About = () => {
                   <StaticImage
                     src={`../../images/skills/SQL.png`}
                     quality={95}
-                    formats={['AUTO', 'WEBP', 'AVIF']}
+                    formats={['AUTO', 'WEBP']}
                     alt="SQL"
                   />
                 </div>
@@ -175,7 +175,7 @@ const About = () => {
                   <StaticImage
                     src={`../../images/skills/Java.png`}
                     quality={95}
-                    formats={['AUTO', 'WEBP', 'AVIF']}
+                    formats={['AUTO', 'WEBP']}
                     alt="JavaScript"
                   />
                 </div>
@@ -186,7 +186,7 @@ const About = () => {
                   <StaticImage
                     src={`../../images/skills/Python.png`}
                     quality={95}
-                    formats={['AUTO', 'WEBP', 'AVIF']}
+                    formats={['AUTO', 'WEBP']}
                     alt="JavaScript"
                   />
                 </div>
@@ -197,7 +197,7 @@ const About = () => {
                   <StaticImage
                     src={`../../images/skills/C.png`}
                     quality={95}
-                    formats={['AUTO', 'WEBP', 'AVIF']}
+                    formats={['AUTO', 'WEBP']}
                     alt="JavaScript"
                   />
                 </div>
@@ -208,7 +208,7 @@ const About = () => {
                   <StaticImage
                     src={`../../images/skills/CSharp.png`}
                     quality={95}
-                    formats={['AUTO', 'WEBP', 'AVIF']}
+                    formats={['AUTO', 'WEBP']}
                     alt="JavaScript"
                   />
                 </div>
@@ -225,7 +225,7 @@ const About = () => {
               src="../../images/me.png"
               width={500}
               quality={95}
-              formats={['AUTO', 'WEBP', 'AVIF']}
+              formats={['AUTO', 'WEBP']}
               alt="Headshot"
             />
           </div>

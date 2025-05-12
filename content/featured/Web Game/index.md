@@ -2,8 +2,8 @@
 date: '3'
 title: 'Web Game'
 cover: './webGame.png'
-external: 'https://sophshan.github.io/fishgame/'
-github: 'https://github.com/SophShan/SophShan.github.io/tree/gh-pages/fishgame'
+external: 'https://sophshan.github.io/public/fishgame/'
+github: 'https://github.com/SophShan/SophShan.github.io/tree/gh-pages/public/fishgame'
 tech:
   - HTML Canvas
   - CSS

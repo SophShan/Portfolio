@@ -151,7 +151,7 @@ const About = () => {
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/JavaScript.svg`}
+                    src={`../../images/skills/Javascript.png`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
                     alt="JavaScript"
@@ -162,7 +162,7 @@ const About = () => {
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/SQL.svg`}
+                    src={`../../images/skills/SQL.png`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
                     alt="SQL"
@@ -173,7 +173,7 @@ const About = () => {
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/Java.svg`}
+                    src={`../../images/skills/Java.png`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
                     alt="JavaScript"
@@ -184,7 +184,7 @@ const About = () => {
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/Python.svg`}
+                    src={`../../images/skills/Python.png`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
                     alt="JavaScript"
@@ -195,7 +195,7 @@ const About = () => {
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/C.svg`}
+                    src={`../../images/skills/C.png`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
                     alt="JavaScript"
@@ -206,7 +206,7 @@ const About = () => {
               <li>
                 <div className="skill-img">
                   <StaticImage
-                    src={`../../images/skills/CSharp.svg`}
+                    src={`../../images/skills/CSharp.png`}
                     quality={95}
                     formats={['AUTO', 'WEBP', 'AVIF']}
                     alt="JavaScript"

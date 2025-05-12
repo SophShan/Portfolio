@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Sophia Shantharupan',
     description: 'Sophia Shantharupan is a Research Assistant at McMaster University.',
-    siteUrl: 'https://sophshan.github.io', // No trailing slash allowed!
+    siteUrl: 'https://sophiashantharupan.netlify.app', // No trailing slash allowed!
     image: '/og.PNG', // Path to your image you placed in the 'static' folder
   },
   plugins: [

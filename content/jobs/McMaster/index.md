@@ -12,4 +12,3 @@ url: 'https://www.mcmaster.ca/'
 - Achieved a 90% reduction in prospect lookup time by engineering an MS SQL database and PowerBI CRM
   dashboard with DAX, built from unstructured text data.
 - Composed a Power Automate flow to facilitate automatic dashboard updates on edits to connected dataset.
-- Created PowerBI dashboards from Excel datasets after self-directed learning in Dax and MS SQL. Learned and employed these skills within 2 weeks to extract insights and create interactive dashboards for fundraiser seminars.

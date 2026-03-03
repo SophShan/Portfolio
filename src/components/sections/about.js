@@ -132,8 +132,7 @@ const About = () => {
           <div>
             <p>Hi there!</p>
             <p>
-              I'm Sophia Shantharupan, an aspiring software developer who enjoys building new and
-              fun projects. My background is in developing full stack applications, game mechanics,
+              I'm Sophia Shantharupan, an aspiring software developer who enjoys making ideas come to life through programming. My background is in developing full stack applications, game mechanics,
               and data analytics.
             </p>
             <p>
